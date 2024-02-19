@@ -13,6 +13,42 @@
             "country": "Germany"
         },
         {
+            "size": 92,
+            "id": "3QbMs4L3",
+            "geo": [
+                11.912782,
+                50.313538
+            ],
+            "url": "/visit/hof/3QbMs4L3",
+            "boost": false,
+            "title": "Hof",
+            "country": "Germany"
+        },
+        {
+            "size": 59,
+            "id": "6kOTlP0W",
+            "geo": [
+                10.89779,
+                48.370544
+            ],
+            "url": "/visit/augsburg/6kOTlP0W",
+            "boost": false,
+            "title": "Augsburg",
+            "country": "Germany"
+        },
+        {
+            "size": 41,
+            "id": "5B0xQHK8",
+            "geo": [
+                8.44518,
+                49.47741
+            ],
+            "url": "/visit/ludwigshafen/5B0xQHK8",
+            "boost": false,
+            "title": "Ludwigshafen",
+            "country": "Germany"
+        },
+        {
             "size": 7,
             "id": "T6fDFFR7",
             "geo": [
@@ -22,6 +58,78 @@
             "url": "/visit/cadiz/T6fDFFR7",
             "boost": false,
             "title": "Cádiz",
+            "country": "Spain"
+        },
+        {
+            "size": 5,
+            "id": "BsinZszD",
+            "geo": [
+                -4.0055604,
+                40.63088
+            ],
+            "url": "/visit/collado-villalba/BsinZszD",
+            "boost": false,
+            "title": "Collado Villalba",
+            "country": "Spain"
+        },
+        {
+            "size": 3,
+            "id": "qodHGhzB",
+            "geo": [
+                -6.4058423,
+                38.691456
+            ],
+            "url": "/visit/almendralejo/qodHGhzB",
+            "boost": false,
+            "title": "Almendralejo",
+            "country": "Spain"
+        },
+        {
+            "size": 3,
+            "id": "BTrPRXmf",
+            "geo": [
+                -70.04753,
+                -26.39025
+            ],
+            "url": "/visit/diego-de-almagro/BTrPRXmf",
+            "boost": false,
+            "title": "Diego de Almagro",
+            "country": "Chile"
+        },
+        {
+            "size": 11,
+            "id": "HFGwC7FN",
+            "geo": [
+                -0.1224937,
+                38.541058
+            ],
+            "url": "/visit/benidorm/HFGwC7FN",
+            "boost": false,
+            "title": "Benidorm",
+            "country": "Spain"
+        },
+        {
+            "size": 10,
+            "id": "N1MXBdPi",
+            "geo": [
+                -1.6457745,
+                42.812527
+            ],
+            "url": "/visit/pamplona/N1MXBdPi",
+            "boost": false,
+            "title": "Pamplona",
+            "country": "Spain"
+        },
+        {
+            "size": 1,
+            "id": "X8HFhIei",
+            "geo": [
+                -3.9293647,
+                40.576607
+            ],
+            "url": "/visit/torrelodones/X8HFhIei",
+            "boost": false,
+            "title": "Torrelodones",
             "country": "Spain"
         },
         {
@@ -37,6 +145,30 @@
             "country": "Nigeria"
         },
         {
+            "size": 6,
+            "id": "54A3i1L1",
+            "geo": [
+                8.341701,
+                4.9757166
+            ],
+            "url": "/visit/calabar/54A3i1L1",
+            "boost": false,
+            "title": "Calabar",
+            "country": "Nigeria"
+        },
+        {
+            "size": 12,
+            "id": "g0iiwKlD",
+            "geo": [
+                5.205791,
+                7.2571325
+            ],
+            "url": "/visit/akure/g0iiwKlD",
+            "boost": false,
+            "title": "Akure",
+            "country": "Nigeria"
+        },
+        {
             "size": 7,
             "id": "YgFS2r0N",
             "geo": [
@@ -46,6 +178,54 @@
             "url": "/visit/daytona-beach-fl/YgFS2r0N",
             "boost": false,
             "title": "Daytona Beach FL",
+            "country": "United States"
+        },
+        {
+            "size": 5,
+            "id": "COwuflBW",
+            "geo": [
+                -84.15574,
+                31.578506
+            ],
+            "url": "/visit/albany-ga/COwuflBW",
+            "boost": false,
+            "title": "Albany GA",
+            "country": "United States"
+        },
+        {
+            "size": 5,
+            "id": "tQl9oXIA",
+            "geo": [
+                -94.67079,
+                38.982227
+            ],
+            "url": "/visit/overland-park-ks/tQl9oXIA",
+            "boost": false,
+            "title": "Overland Park KS",
+            "country": "United States"
+        },
+        {
+            "size": 5,
+            "id": "i67T06sq",
+            "geo": [
+                -70.87367,
+                43.19786
+            ],
+            "url": "/visit/dover-nh/i67T06sq",
+            "boost": false,
+            "title": "Dover NH",
+            "country": "United States"
+        },
+        {
+            "size": 5,
+            "id": "t2nsaVph",
+            "geo": [
+                -79.94143,
+                37.27097
+            ],
+            "url": "/visit/roanoke-va/t2nsaVph",
+            "boost": false,
+            "title": "Roanoke VA",
             "country": "United States"
         },
         {
