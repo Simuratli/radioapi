@@ -1,0 +1,756 @@
+{
+    "size": 26,
+    "id": "5TJWgfJJ",
+    "geo": [
+        103.867744,
+        1.3553793
+    ],
+    "url": "/visit/singapore/5TJWgfJJ",
+    "boost": true,
+    "title": "Singapore",
+    "country": "Singapore"
+},
+{
+    "size": 1,
+    "id": "nQdMeYrv",
+    "geo": [
+        -90.31547,
+        -0.7427908
+    ],
+    "url": "/visit/puerto-ayora/nQdMeYrv",
+    "boost": false,
+    "title": "Puerto Ayora",
+    "country": "Ecuador"
+},
+{
+    "size": 7,
+    "id": "LWXoVhjH",
+    "geo": [
+        -64.34934,
+        -33.123158
+    ],
+    "url": "/visit/rio-cuarto/LWXoVhjH",
+    "boost": false,
+    "title": "Río Cuarto",
+    "country": "Argentina"
+},
+{
+    "size": 7,
+    "id": "wimW4cAJ",
+    "geo": [
+        27.51436,
+        -29.363218
+    ],
+    "url": "/visit/maseru/wimW4cAJ",
+    "boost": true,
+    "title": "Maseru",
+    "country": "Lesotho"
+},
+{
+    "size": 23,
+    "id": "pUe3ikei",
+    "geo": [
+        18.413076,
+        43.85626
+    ],
+    "url": "/visit/sarajevo/pUe3ikei",
+    "boost": false,
+    "title": "Sarajevo",
+    "country": "Bosnia and Herzegovina"
+},
+{
+    "size": 23,
+    "id": "wJj2QIvR",
+    "geo": [
+        -76.809906,
+        18.017874
+    ],
+    "url": "/visit/kingston/wJj2QIvR",
+    "boost": false,
+    "title": "Kingston",
+    "country": "Jamaica"
+},
+{
+    "size": 23,
+    "id": "1RzdPXSQ",
+    "geo": [
+        24.105186,
+        56.94965
+    ],
+    "url": "/visit/riga/1RzdPXSQ",
+    "boost": true,
+    "title": "Riga",
+    "country": "Latvia"
+},
+{
+    "size": 7,
+    "id": "9QtK3KbU",
+    "geo": [
+        23.646984,
+        37.942986
+    ],
+    "url": "/visit/piraeus/9QtK3KbU",
+    "boost": false,
+    "title": "Piraeus",
+    "country": "Greece"
+},
+{
+    "size": 10,
+    "id": "Gt6Y141j",
+    "geo": [
+        19.02378,
+        50.264893
+    ],
+    "url": "/visit/katowice/Gt6Y141j",
+    "boost": false,
+    "title": "Katowice",
+    "country": "Poland"
+},
+{
+    "size": 7,
+    "id": "WlHDjJbO",
+    "geo": [
+        8.61168,
+        44.907272
+    ],
+    "url": "/visit/alessandria/WlHDjJbO",
+    "boost": false,
+    "title": "Alessandria",
+    "country": "Italy"
+},
+{
+    "size": 20,
+    "id": "r4E9T7xr",
+    "geo": [
+        3.0587926,
+        36.75377
+    ],
+    "url": "/visit/algiers/r4E9T7xr",
+    "boost": false,
+    "title": "Algiers",
+    "country": "Algeria"
+},
+{
+    "size": 19,
+    "id": "Yjpo8ofK",
+    "geo": [
+        30.10443,
+        -1.9705786
+    ],
+    "url": "/visit/kigali/Yjpo8ofK",
+    "boost": true,
+    "title": "Kigali",
+    "country": "Rwanda"
+},
+{
+    "size": 12,
+    "id": "0k2wLLgO",
+    "geo": [
+        -9.05679,
+        53.270668
+    ],
+    "url": "/visit/galway/0k2wLLgO",
+    "boost": false,
+    "title": "Galway",
+    "country": "Ireland"
+},
+{
+    "size": 16,
+    "id": "82Q3wG81",
+    "geo": [
+        -21.81744,
+        64.12652
+    ],
+    "url": "/visit/reykjavik/82Q3wG81",
+    "boost": true,
+    "title": "Reykjavík",
+    "country": "Iceland"
+},
+{
+    "size": 16,
+    "id": "ndsyKFeI",
+    "geo": [
+        -61.069885,
+        14.606057
+    ],
+    "url": "/visit/fort-de-france-bay/ndsyKFeI",
+    "boost": false,
+    "title": "Fort-de-France",
+    "country": "Martinique"
+},
+{
+    "size": 7,
+    "id": "EUAWDAxD",
+    "geo": [
+        21.20868,
+        45.74887
+    ],
+    "url": "/visit/timisoara/EUAWDAxD",
+    "boost": false,
+    "title": "Timișoara",
+    "country": "Romania"
+},
+{
+    "size": 7,
+    "id": "mPnRX2G9",
+    "geo": [
+        20.911423,
+        44.012794
+    ],
+    "url": "/visit/kragujevac/mPnRX2G9",
+    "boost": false,
+    "title": "Kragujevac",
+    "country": "Serbia"
+},
+{
+    "size": 3,
+    "id": "xlpQ8udE",
+    "geo": [
+        98.90653,
+        8.084831
+    ],
+    "url": "/visit/krabi/xlpQ8udE",
+    "boost": false,
+    "title": "Krabi",
+    "country": "Thailand"
+},
+{
+    "size": 3,
+    "id": "bJHG3R4J",
+    "geo": [
+        69.20749,
+        34.55535
+    ],
+    "url": "/visit/kabul/bJHG3R4J",
+    "boost": true,
+    "title": "Kabul",
+    "country": "Afghanistan"
+},
+{
+    "size": 8,
+    "id": "s1u5D3x9",
+    "geo": [
+        25.61412,
+        -33.958035
+    ],
+    "url": "/visit/port-elizabeth/s1u5D3x9",
+    "boost": false,
+    "title": "Port Elizabeth",
+    "country": "South Africa"
+},
+{
+    "size": 1,
+    "id": "8oAIZ-C5",
+    "geo": [
+        117.120094,
+        36.6512
+    ],
+    "url": "/visit/jinan/8oAIZ-C5",
+    "boost": false,
+    "title": "Jinan",
+    "country": "China"
+},
+{
+    "size": 7,
+    "id": "bQFGWM4J",
+    "geo": [
+        -70.520546,
+        19.215261
+    ],
+    "url": "/visit/la-vega/bQFGWM4J",
+    "boost": false,
+    "title": "La Vega",
+    "country": "Dominican Republic"
+},
+{
+    "size": 14,
+    "id": "QtH0eU6V",
+    "geo": [
+        114.1747,
+        22.278315
+    ],
+    "url": "/visit/hong-kong/QtH0eU6V",
+    "boost": true,
+    "title": "Hong Kong",
+    "country": "Hong Kong"
+},
+{
+    "size": 8,
+    "id": "gTDATeLQ",
+    "geo": [
+        8.309307,
+        47.050167
+    ],
+    "url": "/visit/lucerne/gTDATeLQ",
+    "boost": false,
+    "title": "Lucerne",
+    "country": "Switzerland"
+},
+{
+    "size": 1,
+    "id": "jGkFYF2Y",
+    "geo": [
+        -89.920654,
+        16.918139
+    ],
+    "url": "/visit/san-benito/jGkFYF2Y",
+    "boost": false,
+    "title": "San Benito",
+    "country": "Guatemala"
+},
+{
+    "size": 7,
+    "id": "hw7TPJTw",
+    "geo": [
+        143.85025,
+        -37.56216
+    ],
+    "url": "/visit/ballarat-city/hw7TPJTw",
+    "boost": false,
+    "title": "Ballarat City",
+    "country": "Australia"
+},
+{
+    "size": 8,
+    "id": "GIlFWJ8g",
+    "geo": [
+        -54.92815,
+        -34.93688
+    ],
+    "url": "/visit/punta-del-este/GIlFWJ8g",
+    "boost": false,
+    "title": "Punta del Este",
+    "country": "Uruguay"
+},
+{
+    "size": 13,
+    "id": "aqYp0wTm",
+    "geo": [
+        73.09315,
+        33.729782
+    ],
+    "url": "/visit/islamabad/aqYp0wTm",
+    "boost": false,
+    "title": "Islamabad",
+    "country": "Pakistan"
+},
+{
+    "size": 12,
+    "id": "H0gBfXWF",
+    "geo": [
+        6.1319346,
+        49.61162
+    ],
+    "url": "/visit/luxembourg-city/H0gBfXWF",
+    "boost": false,
+    "title": "Luxembourg City",
+    "country": "Luxembourg"
+},
+{
+    "size": 12,
+    "id": "7F6IKw28",
+    "geo": [
+        178.45007,
+        -18.12481
+    ],
+    "url": "/visit/suva/7F6IKw28",
+    "boost": true,
+    "title": "Suva",
+    "country": "Fiji"
+},
+{
+    "size": 2,
+    "id": "sQ0i6uVt",
+    "geo": [
+        33.1717,
+        1.9130964
+    ],
+    "url": "/visit/dokolo/sQ0i6uVt",
+    "boost": false,
+    "title": "Dokolo",
+    "country": "Uganda"
+},
+{
+    "size": 7,
+    "id": "VMAZrZ0W",
+    "geo": [
+        46.306965,
+        60.76796
+    ],
+    "url": "/visit/veliky-ustyug/VMAZrZ0W",
+    "boost": false,
+    "title": "Veliky Ustyug",
+    "country": "Russia"
+},
+{
+    "size": 2,
+    "id": "Ap0TI0MQ",
+    "geo": [
+        40.93545,
+        37.10057
+    ],
+    "url": "/visit/amuda/Ap0TI0MQ",
+    "boost": false,
+    "title": "Amuda",
+    "country": "Syria"
+},
+{
+    "size": 11,
+    "id": "CxvFOnZ5",
+    "geo": [
+        35.20342,
+        31.903765
+    ],
+    "url": "/visit/ramallah/CxvFOnZ5",
+    "boost": false,
+    "title": "Ramallah",
+    "country": "Palestine"
+},
+{
+    "size": 8,
+    "id": "ngOAVbod",
+    "geo": [
+        39.668205,
+        -4.043477
+    ],
+    "url": "/visit/mombasa/ngOAVbod",
+    "boost": false,
+    "title": "Mombasa",
+    "country": "Kenya"
+},
+{
+    "size": 11,
+    "id": "L1MoZWRN",
+    "geo": [
+        -60.98747,
+        14.010109
+    ],
+    "url": "/visit/castries-city/L1MoZWRN",
+    "boost": true,
+    "title": "Castries City",
+    "country": "Saint Lucia"
+},
+{
+    "size": 8,
+    "id": "alN3W08I",
+    "geo": [
+        29.060963,
+        40.18853
+    ],
+    "url": "/visit/bursa/alN3W08I",
+    "boost": false,
+    "title": "Bursa",
+    "country": "Türkiye"
+},
+{
+    "size": 9,
+    "id": "xGCdtpPi",
+    "geo": [
+        172.63623,
+        -43.532055
+    ],
+    "url": "/visit/christchurch/xGCdtpPi",
+    "boost": false,
+    "title": "Christchurch",
+    "country": "New Zealand"
+},
+{
+    "size": 10,
+    "id": "ts7DAYrh",
+    "geo": [
+        57.50122,
+        -20.16089
+    ],
+    "url": "/visit/port-louis/ts7DAYrh",
+    "boost": true,
+    "title": "Port Louis",
+    "country": "Mauritius"
+},
+{
+    "size": 10,
+    "id": "eR8K4rBb",
+    "geo": [
+        139.69171,
+        35.689487
+    ],
+    "url": "/visit/tokyo/eR8K4rBb",
+    "boost": false,
+    "title": "Tokyo",
+    "country": "Japan"
+},
+{
+    "size": 8,
+    "id": "FZ2DA84B",
+    "geo": [
+        15.439504,
+        47.070713
+    ],
+    "url": "/visit/graz/FZ2DA84B",
+    "boost": false,
+    "title": "Graz",
+    "country": "Austria"
+},
+{
+    "size": 9,
+    "id": "VU38WtY9",
+    "geo": [
+        18.262524,
+        49.820923
+    ],
+    "url": "/visit/ostrava/VU38WtY9",
+    "boost": false,
+    "title": "Ostrava",
+    "country": "Czechia"
+},
+{
+    "size": 7,
+    "id": "eMGVY-_t",
+    "geo": [
+        -76.37216,
+        -6.4828215
+    ],
+    "url": "/visit/tarapoto/eMGVY-_t",
+    "boost": false,
+    "title": "Tarapoto",
+    "country": "Peru"
+},
+{
+    "size": 9,
+    "id": "Qinmked3",
+    "geo": [
+        21.627312,
+        47.531605
+    ],
+    "url": "/visit/debrecen/Qinmked3",
+    "boost": false,
+    "title": "Debrecen",
+    "country": "Hungary"
+},
+{
+    "size": 9,
+    "id": "9DSxZqqA",
+    "geo": [
+        -61.379356,
+        15.309168
+    ],
+    "url": "/visit/roseau/9DSxZqqA",
+    "boost": true,
+    "title": "Roseau",
+    "country": "Dominica"
+},
+{
+    "size": 1,
+    "id": "yEPJgQbg",
+    "geo": [
+        48.07156,
+        29.335295
+    ],
+    "url": "/visit/salmiya/yEPJgQbg",
+    "boost": true,
+    "title": "Salmiya",
+    "country": "Kuwait"
+},
+{
+    "size": 9,
+    "id": "9EBo4rdZ",
+    "geo": [
+        33.022617,
+        34.70713
+    ],
+    "url": "/visit/limassol/9EBo4rdZ",
+    "boost": true,
+    "title": "Limassol",
+    "country": "Cyprus"
+},
+{
+    "size": 1,
+    "id": "Tzt5iZWy",
+    "geo": [
+        -55.057606,
+        -26.110668
+    ],
+    "url": "/visit/iruna/Tzt5iZWy",
+    "boost": false,
+    "title": "Iruña",
+    "country": "Paraguay"
+},
+{
+    "size": 8,
+    "id": "itfVVDxJ",
+    "geo": [
+        -2.103233,
+        49.1805
+    ],
+    "url": "/visit/saint-helier/itfVVDxJ",
+    "boost": true,
+    "title": "Saint Helier",
+    "country": "Bailiwick of Jersey"
+},
+{
+    "size": 8,
+    "id": "DJvMUXEV",
+    "geo": [
+        31.03351,
+        -17.825165
+    ],
+    "url": "/visit/harare/DJvMUXEV",
+    "boost": true,
+    "title": "Harare",
+    "country": "Zimbabwe"
+},
+{
+    "size": 8,
+    "id": "N9XxVfE3",
+    "geo": [
+        -61.7488,
+        12.056097
+    ],
+    "url": "/visit/saint-georges/N9XxVfE3",
+    "boost": true,
+    "title": "Saint George's",
+    "country": "Grenada"
+},
+{
+    "size": 8,
+    "id": "fmUtYF9u",
+    "geo": [
+        -61.525284,
+        16.271093
+    ],
+    "url": "/visit/les-abymes/fmUtYF9u",
+    "boost": true,
+    "title": "Les Abymes",
+    "country": "Guadeloupe"
+},
+{
+    "size": 8,
+    "id": "pQGBedPo",
+    "geo": [
+        35.01679,
+        -15.76667
+    ],
+    "url": "/visit/blantyre/pQGBedPo",
+    "boost": false,
+    "title": "Blantyre",
+    "country": "Malawi"
+},
+{
+    "size": 8,
+    "id": "xsFihwGx",
+    "geo": [
+        -16.924055,
+        32.66693
+    ],
+    "url": "/visit/funchal/xsFihwGx",
+    "boost": false,
+    "title": "Funchal",
+    "country": "Madeira"
+},
+{
+    "size": 1,
+    "id": "SWhUMo4B",
+    "geo": [
+        -62.04581,
+        9.069177
+    ],
+    "url": "/visit/tucupita/SWhUMo4B",
+    "boost": false,
+    "title": "Tucupita",
+    "country": "Venezuela"
+},
+{
+    "size": 7,
+    "id": "BiB1tQc3",
+    "geo": [
+        34.98957,
+        32.794044
+    ],
+    "url": "/visit/haifa/BiB1tQc3",
+    "boost": false,
+    "title": "Haifa",
+    "country": "Israel"
+},
+{
+    "size": 7,
+    "id": "FAocTMJo",
+    "geo": [
+        -6.7705803,
+        62.012356
+    ],
+    "url": "/visit/torshavn/FAocTMJo",
+    "boost": true,
+    "title": "Tórshavn",
+    "country": "Faroe Islands"
+},
+{
+    "size": 7,
+    "id": "LPlUvV8C",
+    "geo": [
+        -13.231723,
+        8.465676
+    ],
+    "url": "/visit/freetown/LPlUvV8C",
+    "boost": true,
+    "title": "Freetown",
+    "country": "Sierra Leone"
+},
+{
+    "size": 7,
+    "id": "Z8p6yehU",
+    "geo": [
+        166.45053,
+        -22.255823
+    ],
+    "url": "/visit/noumea/Z8p6yehU",
+    "boost": true,
+    "title": "Nouméa",
+    "country": "New Calédonia"
+},
+{
+    "size": 7,
+    "id": "p2kliTj6",
+    "geo": [
+        15.266294,
+        -4.4419312
+    ],
+    "url": "/visit/kinshasa/p2kliTj6",
+    "boost": false,
+    "title": "Kinshasa",
+    "country": "Democratic Republic of the Congo"
+},
+{
+    "size": 7,
+    "id": "ufWZ1Cpb",
+    "geo": [
+        -52.313454,
+        4.92242
+    ],
+    "url": "/visit/cayenne/ufWZ1Cpb",
+    "boost": true,
+    "title": "Cayenne",
+    "country": "French Guiana"
+},
+{
+    "size": 7,
+    "id": "cmoJyT3U",
+    "geo": [
+        18.695515,
+        45.554962
+    ],
+    "url": "/visit/osijek/cmoJyT3U",
+    "boost": false,
+    "title": "Osijek",
+    "country": "Croatia"
+},
+{
+    "size": 7,
+    "id": "HCeyA5I7",
+    "geo": [
+        5.733107,
+        58.969975
+    ],
+    "url": "/visit/stavanger/HCeyA5I7",
+    "boost": false,
+    "title": "Stavanger",
+    "country": "Norway"
+}
