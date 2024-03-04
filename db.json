@@ -547,6 +547,20 @@
             "country": "Indonesia",
             "name":"Prosalina FM 101.3",
             "flag":"ID"
+        },
+        {
+            "size": 17,
+            "id": "ZDciHO7L",
+            "geo": [
+                49.867092,
+                40.40926
+            ],
+            "url": "https://radio.garden/api/ara/content/listen/EhkBb4fk/channel.mp3?r=1&1709537091237",
+            "boost": true,
+            "title": "Baku",
+            "country": "Azerbaijan",
+            "name":"Xezer FM 103.0",
+            "flag":"AZ"
         }
         
     ]
